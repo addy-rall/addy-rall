@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is adya and I'm a final year student pursuing bachelors in technology, majoring in computer science.</h2>
+<h2 align="left">Hii🌱</h2>
 
 ###
 
