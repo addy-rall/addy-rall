@@ -1,11 +1,6 @@
 <h2 align="left">Hii🌱</h2>
 </div>
 
-###
-
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=2111131072182610" height="359" width="345" frameborder="0" scrolling="no" ></iframe>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
